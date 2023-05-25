@@ -1,0 +1,4 @@
+{
+  "stack": "heroku-22",
+  "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-static" }]
+}
